@@ -1,0 +1,11 @@
+.tela{
+    display: flex;
+    background-color: gray;
+
+    justify-content: flex-end;
+    align-items: center;
+    grid-column: span 4;
+    padding: 20px;
+
+    font-size: 3px;
+}
