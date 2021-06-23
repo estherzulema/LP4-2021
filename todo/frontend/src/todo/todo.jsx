@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import PageHeader from '../tamplete/pageHearder';
+import PageHeader from '../template/pageHeader';
 import axios from 'axios';
 
 import TodoForm from './todoForm';
